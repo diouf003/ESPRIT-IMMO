@@ -1,0 +1,19 @@
+@import "~admin-lte/plugins/fontawesome-free/css/all.css";
+@import "~admin-lte/dist/css/adminlte.css";
+
+
+.ellipsis {
+    text-overflow: ellipsis;
+    white-space: nowraps;
+    overflow: hidden;
+}
+
+a.btn.btn-db {
+    background-color: #0069d9 !important;
+    border-color: #0062cc !important;
+}
+
+.large-column {
+    width: 300px;
+    /* Ajustez la valeur en fonction de vos besoins */
+}
